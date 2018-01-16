@@ -1,0 +1,1 @@
+sencha -sdk ../extjs  generate app classic App ./App01Login
